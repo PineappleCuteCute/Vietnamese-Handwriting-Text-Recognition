@@ -24,7 +24,7 @@ tra_predictor.predict([Image.open("/content/out_sample_2.jpg")])
 ```
 ### Fully implemented
 ```bash
-git clone https://github.com/nguyenhoanganh2002/vnhtr
+git clone https://github.com/PineappleCuteCute/Vietnamese-Handwriting-Text-Recognition.git
 cd ./vnhtr/vnhtr/source
 pip install -r requirements.txt
 ```
