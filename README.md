@@ -56,7 +56,7 @@ tr_base = VNTrOCR(trocr_cf)
 tr_adapter = AdapterVNTrOCR(trocr_cf)
 ```
 
-For access to the full dataset and pretrained weights, please contact: [anh.nh204511@gmail.com](mailto:daothanhmanh12@gmail.com)
+For access to the full dataset and pretrained weights, please contact: [daothanhmanh12@gmail.com](mailto:daothanhmanh12@gmail.com)
 
 ## Experimental Results
 | Model                       | CER   | Δ(CER) | WER   | Δ(WER) | Inference time (ms) | Δ(normalized) |
